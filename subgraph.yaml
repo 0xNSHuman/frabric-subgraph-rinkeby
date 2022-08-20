@@ -8,7 +8,7 @@ dataSources:
     kind: ethereum/contract
     network: rinkeby
     source:
-      address: "0xa7930bfc863b895de85307457b976b12515389fb" # SET TO THE ACTUAL DEPLOYMENT ADDRESS
+      address: "0x0d443712225AD4D31C9086Fc7564cc86F8219567" # SET TO THE ACTUAL DEPLOYMENT ADDRESS
       abi: Frabric
       startBlock: 10616035 # SET TO THE ACTUAL DEPLOYMENT BLOCK
     mapping:
